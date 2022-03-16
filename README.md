@@ -1,1 +1,3 @@
 # WeatherApp
+
+Requires node modules.
